@@ -1,1 +1,1 @@
-# C2TC_B79_Java
+# C2TC_Core_Java
